@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/yolo-shop/static/css/main.207650dc.chunk.css",
-    "main.js": "/yolo-shop/static/js/main.7e51948c.chunk.js",
-    "main.js.map": "/yolo-shop/static/js/main.7e51948c.chunk.js.map",
-    "runtime-main.js": "/yolo-shop/static/js/runtime-main.1246654e.js",
-    "runtime-main.js.map": "/yolo-shop/static/js/runtime-main.1246654e.js.map",
-    "static/js/2.4c949161.chunk.js": "/yolo-shop/static/js/2.4c949161.chunk.js",
-    "static/js/2.4c949161.chunk.js.map": "/yolo-shop/static/js/2.4c949161.chunk.js.map",
-    "static/js/3.6fe43753.chunk.js": "/yolo-shop/static/js/3.6fe43753.chunk.js",
-    "static/js/3.6fe43753.chunk.js.map": "/yolo-shop/static/js/3.6fe43753.chunk.js.map",
+    "main.css": "/yolo-shop/static/css/main.8f22db74.chunk.css",
+    "main.js": "/yolo-shop/static/js/main.48561c07.chunk.js",
+    "main.js.map": "/yolo-shop/static/js/main.48561c07.chunk.js.map",
+    "runtime-main.js": "/yolo-shop/static/js/runtime-main.0eddd8a8.js",
+    "runtime-main.js.map": "/yolo-shop/static/js/runtime-main.0eddd8a8.js.map",
+    "static/js/2.1b36b4b3.chunk.js": "/yolo-shop/static/js/2.1b36b4b3.chunk.js",
+    "static/js/2.1b36b4b3.chunk.js.map": "/yolo-shop/static/js/2.1b36b4b3.chunk.js.map",
+    "static/js/3.f8b1931f.chunk.js": "/yolo-shop/static/js/3.f8b1931f.chunk.js",
+    "static/js/3.f8b1931f.chunk.js.map": "/yolo-shop/static/js/3.f8b1931f.chunk.js.map",
     "index.html": "/yolo-shop/index.html",
-    "static/css/main.207650dc.chunk.css.map": "/yolo-shop/static/css/main.207650dc.chunk.css.map",
-    "static/js/2.4c949161.chunk.js.LICENSE.txt": "/yolo-shop/static/js/2.4c949161.chunk.js.LICENSE.txt",
+    "static/css/main.8f22db74.chunk.css.map": "/yolo-shop/static/css/main.8f22db74.chunk.css.map",
+    "static/js/2.1b36b4b3.chunk.js.LICENSE.txt": "/yolo-shop/static/js/2.1b36b4b3.chunk.js.LICENSE.txt",
     "static/media/Logo-2.3f227664.png": "/yolo-shop/static/media/Logo-2.3f227664.png",
     "static/media/banner.3c5f3ab8.png": "/yolo-shop/static/media/banner.3c5f3ab8.png",
     "static/media/boxicons.min.css": "/yolo-shop/static/media/boxicons.cbd149c5.ttf",
@@ -44,9 +44,9 @@
     "static/media/slide_3.png": "/yolo-shop/static/media/slide_3.6e2ad4f2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1246654e.js",
-    "static/js/2.4c949161.chunk.js",
-    "static/css/main.207650dc.chunk.css",
-    "static/js/main.7e51948c.chunk.js"
+    "static/js/runtime-main.0eddd8a8.js",
+    "static/js/2.1b36b4b3.chunk.js",
+    "static/css/main.8f22db74.chunk.css",
+    "static/js/main.48561c07.chunk.js"
   ]
 }
